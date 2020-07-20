@@ -3,7 +3,7 @@
 
 [![Build Status]][Appveyor]
 
-[中文说明]
+[中文说明][据说可以用作翻墙使用，找时间研究一下]
 
 #### Features
 
